@@ -10,3 +10,6 @@ bin/
 
 # macOS
 .DS_Store
+
+# Herramientas compiladas localmente
+tools/.bin/
