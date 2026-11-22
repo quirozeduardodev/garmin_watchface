@@ -1,0 +1,12 @@
+# Compilados
+bin/
+*.prg
+*.iq
+*.prg.debug.xml
+
+# Llaves de firma (nunca subirlas)
+*.der
+*.pem
+
+# macOS
+.DS_Store

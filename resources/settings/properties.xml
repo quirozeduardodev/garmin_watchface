@@ -1,0 +1,15 @@
+<properties>
+    <property id="Style" type="number">0</property>
+    <property id="Accent" type="number">0</property>
+    <property id="Background" type="number">0</property>
+    <property id="Frames" type="boolean">true</property>
+    <property id="Seconds" type="number">0</property>
+    <property id="Extra" type="number">0</property>
+    <property id="RunGoal" type="number">30</property>
+    <property id="Language" type="number">0</property>
+    <property id="HourFormat" type="number">0</property>
+    <property id="LeadingZero" type="boolean">true</property>
+    <property id="TempUnit" type="number">0</property>
+    <property id="DistUnit" type="number">0</property>
+    <property id="AvoidHands" type="boolean">true</property>
+</properties>

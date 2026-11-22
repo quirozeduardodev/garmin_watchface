@@ -1,0 +1,63 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png"/>
+    <bitmap id="Bg2" filename="bg/bg2.png" dithering="none">
+        <palette disableTransparency="true">
+            <color>000000</color>
+            <color>000055</color>
+            <color>0000AA</color>
+        </palette>
+    </bitmap>
+    <bitmap id="Bg3" filename="bg/bg3.png" dithering="none">
+        <palette disableTransparency="true">
+            <color>000000</color>
+            <color>000055</color>
+            <color>550055</color>
+        </palette>
+    </bitmap>
+    <bitmap id="Bg4" filename="bg/bg4.png" dithering="none">
+        <palette disableTransparency="true">
+            <color>000000</color>
+            <color>555555</color>
+        </palette>
+    </bitmap>
+    <bitmap id="Bg5" filename="bg/bg5.png" dithering="none">
+        <palette disableTransparency="true">
+            <color>000000</color>
+            <color>555555</color>
+        </palette>
+    </bitmap>
+    <bitmap id="Bg6" filename="bg/bg6.png" dithering="none">
+        <palette disableTransparency="true">
+            <color>000000</color>
+            <color>555555</color>
+        </palette>
+    </bitmap>
+    <bitmap id="Bg7" filename="bg/bg7.png" dithering="none">
+        <palette disableTransparency="true">
+            <color>000000</color>
+            <color>555555</color>
+            <color>000055</color>
+        </palette>
+    </bitmap>
+    <bitmap id="Bg8" filename="bg/bg8.png" dithering="none">
+        <palette disableTransparency="true">
+            <color>000000</color>
+            <color>005500</color>
+            <color>55AA55</color>
+        </palette>
+    </bitmap>
+    <bitmap id="Bg9" filename="bg/bg9.png" dithering="none">
+        <palette disableTransparency="true">
+            <color>000000</color>
+            <color>005500</color>
+        </palette>
+    </bitmap>
+    <bitmap id="Bg10" filename="bg/bg10.png" dithering="none">
+        <palette disableTransparency="true">
+            <color>000000</color>
+            <color>555500</color>
+            <color>005500</color>
+            <color>555555</color>
+        </palette>
+    </bitmap>
+</drawables>

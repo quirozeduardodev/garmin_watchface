@@ -1,0 +1,122 @@
+<settings>
+    <group id="gLook" title="@Strings.GLook">
+        <setting propertyKey="@Properties.Style" title="@Strings.StyleTitle">
+            <settingConfig type="list">
+                <listEntry value="0">@Strings.S0</listEntry>
+                <listEntry value="1">@Strings.S1</listEntry>
+                <listEntry value="2">@Strings.S2</listEntry>
+                <listEntry value="3">@Strings.S3</listEntry>
+                <listEntry value="4">@Strings.S4</listEntry>
+                <listEntry value="5">@Strings.S5</listEntry>
+                <listEntry value="6">@Strings.S6</listEntry>
+                <listEntry value="7">@Strings.S7</listEntry>
+                <listEntry value="8">@Strings.S8</listEntry>
+                <listEntry value="9">@Strings.S9</listEntry>
+            </settingConfig>
+        </setting>
+        <setting propertyKey="@Properties.Accent" title="@Strings.AccentTitle">
+            <settingConfig type="list">
+                <listEntry value="0">@Strings.C0</listEntry>
+                <listEntry value="1">@Strings.C1</listEntry>
+                <listEntry value="2">@Strings.C2</listEntry>
+                <listEntry value="3">@Strings.C3</listEntry>
+                <listEntry value="4">@Strings.C4</listEntry>
+                <listEntry value="5">@Strings.C5</listEntry>
+                <listEntry value="6">@Strings.C6</listEntry>
+                <listEntry value="7">@Strings.C7</listEntry>
+                <listEntry value="8">@Strings.C8</listEntry>
+                <listEntry value="9">@Strings.C9</listEntry>
+                <listEntry value="10">@Strings.C10</listEntry>
+                <listEntry value="11">@Strings.C11</listEntry>
+                <listEntry value="12">@Strings.C12</listEntry>
+                <listEntry value="13">@Strings.C13</listEntry>
+                <listEntry value="14">@Strings.C14</listEntry>
+                <listEntry value="15">@Strings.C15</listEntry>
+                <listEntry value="16">@Strings.C16</listEntry>
+                <listEntry value="17">@Strings.C17</listEntry>
+                <listEntry value="18">@Strings.C18</listEntry>
+                <listEntry value="19">@Strings.C19</listEntry>
+            </settingConfig>
+        </setting>
+        <setting propertyKey="@Properties.Background" title="@Strings.BgTitle">
+            <settingConfig type="list">
+                <listEntry value="0">@Strings.BG0</listEntry>
+                <listEntry value="1">@Strings.BG1</listEntry>
+                <listEntry value="2">@Strings.BG2</listEntry>
+                <listEntry value="3">@Strings.BG3</listEntry>
+                <listEntry value="4">@Strings.BG4</listEntry>
+                <listEntry value="5">@Strings.BG5</listEntry>
+                <listEntry value="6">@Strings.BG6</listEntry>
+                <listEntry value="7">@Strings.BG7</listEntry>
+                <listEntry value="8">@Strings.BG8</listEntry>
+                <listEntry value="9">@Strings.BG9</listEntry>
+                <listEntry value="10">@Strings.BG10</listEntry>
+                <listEntry value="11">@Strings.BG11</listEntry>
+                <listEntry value="12">@Strings.BG12</listEntry>
+            </settingConfig>
+        </setting>
+        <setting propertyKey="@Properties.Frames" title="@Strings.FramesTitle">
+            <settingConfig type="boolean"/>
+        </setting>
+        <setting propertyKey="@Properties.AvoidHands" title="@Strings.AvoidTitle">
+            <settingConfig type="boolean"/>
+        </setting>
+        <setting propertyKey="@Properties.Seconds" title="@Strings.SecondsTitle">
+            <settingConfig type="list">
+                <listEntry value="0">@Strings.SEC0</listEntry>
+                <listEntry value="1">@Strings.SEC1</listEntry>
+                <listEntry value="2">@Strings.SEC2</listEntry>
+            </settingConfig>
+        </setting>
+    </group>
+    <group id="gData" title="@Strings.GData">
+        <setting propertyKey="@Properties.Extra" title="@Strings.ExtraTitle">
+            <settingConfig type="list">
+                <listEntry value="0">@Strings.X0</listEntry>
+                <listEntry value="1">@Strings.X1</listEntry>
+                <listEntry value="2">@Strings.X2</listEntry>
+                <listEntry value="3">@Strings.X3</listEntry>
+                <listEntry value="4">@Strings.X4</listEntry>
+                <listEntry value="5">@Strings.X5</listEntry>
+                <listEntry value="6">@Strings.X6</listEntry>
+                <listEntry value="7">@Strings.X7</listEntry>
+            </settingConfig>
+        </setting>
+        <setting propertyKey="@Properties.RunGoal" title="@Strings.RunGoalTitle">
+            <settingConfig type="numeric" min="1" max="500"/>
+        </setting>
+    </group>
+    <group id="gFmt" title="@Strings.GFmt">
+        <setting propertyKey="@Properties.Language" title="@Strings.LangTitle">
+            <settingConfig type="list">
+                <listEntry value="0">@Strings.LG0</listEntry>
+                <listEntry value="1">@Strings.LG1</listEntry>
+                <listEntry value="2">@Strings.LG2</listEntry>
+            </settingConfig>
+        </setting>
+        <setting propertyKey="@Properties.HourFormat" title="@Strings.HourTitle">
+            <settingConfig type="list">
+                <listEntry value="0">@Strings.HF0</listEntry>
+                <listEntry value="1">@Strings.HF1</listEntry>
+                <listEntry value="2">@Strings.HF2</listEntry>
+            </settingConfig>
+        </setting>
+        <setting propertyKey="@Properties.LeadingZero" title="@Strings.LeadTitle">
+            <settingConfig type="boolean"/>
+        </setting>
+        <setting propertyKey="@Properties.TempUnit" title="@Strings.TempTitle">
+            <settingConfig type="list">
+                <listEntry value="0">@Strings.TU0</listEntry>
+                <listEntry value="1">@Strings.TU1</listEntry>
+                <listEntry value="2">@Strings.TU2</listEntry>
+            </settingConfig>
+        </setting>
+        <setting propertyKey="@Properties.DistUnit" title="@Strings.DistTitle">
+            <settingConfig type="list">
+                <listEntry value="0">@Strings.DU0</listEntry>
+                <listEntry value="1">@Strings.DU1</listEntry>
+                <listEntry value="2">@Strings.DU2</listEntry>
+            </settingConfig>
+        </setting>
+    </group>
+</settings>
